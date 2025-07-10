@@ -34,7 +34,7 @@ During Week 1 of the justIT Data Skills Bootcamp, I analyzed retail sales data t
 - `screenshots/` - Key charts and formulas
 
 ## 🎓 Part of My Learning Journey
-This project helped me understand how businesses use data to make decisions. Next up: Tableau dashboards!
+This project helped me understand how businesses use data to make decisions. 
 
 ## 🤔 What I'd Do Differently
 - Add more customer segmentation analysis
