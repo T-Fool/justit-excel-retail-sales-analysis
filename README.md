@@ -29,17 +29,9 @@ During Week 1 of the justIT Data Skills Bootcamp, I analyzed retail sales data t
 - Data validation and filtering
 
 ## 📁 Files in This Project
-justit-excel-retail-sales-analysis/
-├── README.md                           # The complete README above
-├── retail_sales_analysis.xlsx          # Your completed Excel file
-├── screenshots/
-│   ├── main_dashboard.png              # Full spreadsheet overview
-│   ├── commission_calculations.png     # Formula examples with absolute referencing
-│   ├── sales_summary_table.png         # Product category breakdown
-│   ├── conditional_formatting.png      # Visual formatting examples
-├── data/
-│   └── original_retail_sales_dataset.xlsx  # Raw dataset (optional)
-└── LICENSE                             # MIT License (already added)
+- `Mamdouh_retail_sales_dataset.xlsx` - My completed analysis
+- `original_retail_sales_dataset` - My completed analysis
+- `screenshots/` - Key charts and formulas
 
 ## 🎓 Part of My Learning Journey
 This project helped me understand how businesses use data to make decisions. Next up: Tableau dashboards!
