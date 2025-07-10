@@ -3,7 +3,7 @@
 ## 🎯 What I Built
 During Week 1 of the justIT Data Skills Bootcamp, I analyzed retail sales data to uncover customer trends and sales patterns. This was my introduction to using Excel for real data analysis!
 
-Main Dashboard
+# Main Dashboard
 <img width="1280" height="674" alt="retail_sales_main_dashboard" src="https://github.com/user-attachments/assets/3f82e6de-4c0f-4734-a392-9bb52b48accb" />
 
 
@@ -19,7 +19,7 @@ Main Dashboard
 - **Biggest Insight**: Customer age doesn't strongly predict purchase amount
 - **Commission Generated**: £6,840 for 2023
 
-Sales Breakdown
+# Sales Breakdown
 <img width="220" height="240" alt="image" src="https://github.com/user-attachments/assets/6736fab8-f021-43b5-a10c-0d28c50c9bfd" />
 
 ## 🛠️ Excel Skills Used
